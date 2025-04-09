@@ -34,14 +34,26 @@ python PokeEncounter.py
 
 ## 🧰 Dependências
 
-- <b>Tkinter<b> (já vem com o Python)
-- <b>Requests<b>
-- <b>Pillow<b>
+- <b>Tkinter</b> (já vem com o Python)
+- <b>Requests</b>
+- <b>Pillow</b>
 
 
 ## 💡 Como usar
 
-1. Digite o nome do Pokémon em inglês (ex: <b>bulbasaur<b>, <b>pikachu<b>, <b>gengar<b>)
+1. Digite o nome do Pokémon em inglês (ex: <b>bulbasaur</b>, <b>pikachu</b>, <b>gengar</b>)
 2. Clique em "Buscar"
 3. O sprite shiny aparecerá
 4. Clique no botão “Botão” (pode renomear depois pra “Encontrei!” ou “+1”) para contar os encontros
+
+## 🖼️ Ícones e Imagens
+- <b>Você pode adicionar o arquivo icone.ico na mesma pasta para personalizar o ícone da janela.</b>
+
+## 📋 TODOs futuros
+- <b>Suporte a sprites normais vs shiny</b>
+- <b>Adicionar som de encontro</b>
+- <b>Salvar progresso dos encontros</b>
+- <b>Tema escuro</b>
+
+## 📜 Licença
+MIT ©Carlos Natanael
