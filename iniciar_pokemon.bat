@@ -1,4 +1,4 @@
 @echo off
 cd /d "%~dp0"
-start /min pythonw pokemon.py
+start /min pythonw PokeEncounter.py
 exit
