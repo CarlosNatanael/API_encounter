@@ -12,7 +12,7 @@ Um aplicativo simples feito em Python com Tkinter que permite buscar Pokémon pe
 
 ## 📸 Preview
 
-![preview](![alt text](image.png))
+![imagem ilustrativa](image.png)
 
 ## 📦 Instalação
 
@@ -34,14 +34,14 @@ python PokeEncounter.py
 
 ## 🧰 Dependências
 
-- <strong>Tkinter<strong> (já vem com o Python)
-- <strong>Requests<strong>
-- <strong>Pillow<strong>
+- <b>Tkinter<b> (já vem com o Python)
+- <b>Requests<b>
+- <b>Pillow<b>
 
 
 ## 💡 Como usar
 
-1. Digite o nome do Pokémon em inglês (ex: <strong>bulbasaur<strong>, <strong>pikachu<strong>, <strong>gengar<strong>)
+1. Digite o nome do Pokémon em inglês (ex: <b>bulbasaur<b>, <b>pikachu<b>, <b>gengar<b>)
 2. Clique em "Buscar"
 3. O sprite shiny aparecerá
 4. Clique no botão “Botão” (pode renomear depois pra “Encontrei!” ou “+1”) para contar os encontros
