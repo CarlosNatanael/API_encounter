@@ -44,7 +44,7 @@ python PokeEncounter.py
 2. Clique em "Buscar"
 3. O sprite shiny aparecerá
 4. Clique no botão “Botão” (pode renomear depois pra “Encontrei!” ou “+1”) para contar os encontros
-5. Para mais dúvidas de como usar use o arquivo em txt [<b>"como_usar.txt"</b>](https://vscode.dev/github/Srleo12/API_encounter/blob/main/como_usar.txt)
+5. Para mais dúvidas de como usar use o arquivo em txt [<b>"como_usar.txt"</b>](https://github.com/Srleo12/API_encounter/blob/main/como_usar.txt)
 
 ## 🖼️ Ícones e Imagens
 - <b>Você pode adicionar o arquivo icone.ico na mesma pasta para personalizar o ícone da janela.</b>
