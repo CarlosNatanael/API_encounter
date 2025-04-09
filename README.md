@@ -17,21 +17,20 @@ Um aplicativo simples feito em Python com Tkinter que permite buscar Pokémon pe
 ## 📦 Instalação
 
 1. Clone o repositório:
-
-```
+``` bash
 git clone https://github.com/Srleo12/API_encounter.git
 cd pokeencounter
 ```
+
 2. Instale as dependências (recomendo usar um ambiente virtual):
-```
+```bash
 pip install pillow requests
 ```
 
 3. Rode o projeto:
-```
+```bash
 python PokeEncounter.py
 ```
-
 ## 🧰 Dependências
 
 - <b>Tkinter</b> (já vem com o Python)
