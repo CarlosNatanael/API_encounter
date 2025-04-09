@@ -53,6 +53,3 @@ python PokeEncounter.py
 - <b>Adicionar som de encontro</b>
 - <b>Salvar progresso dos encontros</b>
 - <b>Tema escuro</b>
-
-## 📜 Licença
-MIT ©Carlos Natanael
