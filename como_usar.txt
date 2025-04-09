@@ -1,0 +1,50 @@
+📘 Instruções de Uso - PokeEncounter
+
+Este documento explica como utilizar o aplicativo PokeEncounter e como iniciar o programa usando o arquivo iniciar_PokeEncounter.bat.
+
+⚙️ PRÉ-REQUISITOS:
+
+Antes de tudo, é necessário ter o Python instalado no seu computador.
+Você pode baixar o Python por aqui: https://www.python.org/downloads/
+
+Depois de instalado, abra o Prompt de Comando e instale as dependências com o seguinte comando:
+
+pip install requests pillow
+
+📁 ESTRUTURA DOS ARQUIVOS:
+
+Certifique-se de que todos os seguintes arquivos estão na mesma pasta:
+
+- PokeEncounter.py        --> Arquivo principal com o código do app
+- iniciar_PokeEncounter.bat --> Atalho para iniciar o app silenciosamente
+- icone.ico               --> Ícone da janela (opcional)
+
+🚀 COMO USAR O ARQUIVO BAT:
+
+Você pode iniciar o aplicativo clicando duas vezes no arquivo:
+
+iniciar_PokeEncounter.bat
+
+Esse arquivo realiza os seguintes passos:
+1. Navega automaticamente até a pasta onde está localizado.
+2. Executa o script `PokeEncounter.py` de forma silenciosa, sem abrir o terminal (usando `pythonw`).
+3. Fecha o prompt de comando assim que o programa é iniciado.
+
+💡 DICA:
+Se o programa não abrir ao clicar no `.bat`, verifique:
+- Se o Python está corretamente instalado
+- Se o script se chama exatamente `PokeEncounter.py`
+- Se o PythonW está no PATH (reinstalar o Python com a opção "Add to PATH" marcada pode ajudar)
+
+🎮 COMO USAR O POKEENCOUNTER:
+
+1. Digite o nome de um Pokémon (em inglês, como "charmander" ou "lucario").
+2. Clique no botão "Buscar".
+3. Veja a versão shiny do Pokémon.
+4. Clique no botão “Botão” para contar quantas vezes ele apareceu.
+
+Pronto! Agora é só caçar shinies até brilhar! ✨
+
+---
+
+Feito com carinho por Carlos Natanael
