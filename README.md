@@ -12,7 +12,7 @@ Um aplicativo simples feito em Python com Tkinter que permite buscar Pokémon pe
 
 ## 📸 Preview
 
-![preview](![alt text](image.png))
+[alt text](image.png)
 
 ## 📦 Instalação
 
